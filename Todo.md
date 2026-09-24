@@ -1,0 +1,3 @@
+- Complete the stock price forecasting model
+- Build the dashboard using streamlit
+- Perform stock price Analysis for trends
